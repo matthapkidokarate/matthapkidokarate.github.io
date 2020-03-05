@@ -1,0 +1,3 @@
+[submodule "projects/GLFW-Test"]
+	path = projects/GLFW-Test
+	url = git@github.com:matthapkidokarate/GLFW-Test.git
